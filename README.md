@@ -15,7 +15,7 @@ This project is an AI-powered landing page builder that generates beautiful, con
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ashishjamarkattel/landingpageagent
 cd webbuilder
 ```
 
